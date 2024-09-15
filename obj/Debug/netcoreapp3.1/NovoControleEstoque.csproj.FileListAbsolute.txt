@@ -1,0 +1,28 @@
+C:\_VisualStudioProgramas\NovoControleEstoque\bin\Debug\netcoreapp3.1\NovoControleEstoque.exe
+C:\_VisualStudioProgramas\NovoControleEstoque\bin\Debug\netcoreapp3.1\NovoControleEstoque.deps.json
+C:\_VisualStudioProgramas\NovoControleEstoque\bin\Debug\netcoreapp3.1\NovoControleEstoque.runtimeconfig.json
+C:\_VisualStudioProgramas\NovoControleEstoque\bin\Debug\netcoreapp3.1\NovoControleEstoque.runtimeconfig.dev.json
+C:\_VisualStudioProgramas\NovoControleEstoque\bin\Debug\netcoreapp3.1\NovoControleEstoque.dll
+C:\_VisualStudioProgramas\NovoControleEstoque\bin\Debug\netcoreapp3.1\NovoControleEstoque.pdb
+C:\_VisualStudioProgramas\NovoControleEstoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.csproj.AssemblyReference.cache
+C:\_VisualStudioProgramas\NovoControleEstoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\_VisualStudioProgramas\NovoControleEstoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.AssemblyInfoInputs.cache
+C:\_VisualStudioProgramas\NovoControleEstoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.AssemblyInfo.cs
+C:\_VisualStudioProgramas\NovoControleEstoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.csproj.CoreCompileInputs.cache
+C:\_VisualStudioProgramas\NovoControleEstoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.dll
+C:\_VisualStudioProgramas\NovoControleEstoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.pdb
+C:\_VisualStudioProgramas\NovoControleEstoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.genruntimeconfig.cache
+C:\Users\vrqua\Desktop\Portifólio do GitHub\controle-estoque\bin\Debug\netcoreapp3.1\NovoControleEstoque.exe
+C:\Users\vrqua\Desktop\Portifólio do GitHub\controle-estoque\bin\Debug\netcoreapp3.1\NovoControleEstoque.deps.json
+C:\Users\vrqua\Desktop\Portifólio do GitHub\controle-estoque\bin\Debug\netcoreapp3.1\NovoControleEstoque.runtimeconfig.json
+C:\Users\vrqua\Desktop\Portifólio do GitHub\controle-estoque\bin\Debug\netcoreapp3.1\NovoControleEstoque.runtimeconfig.dev.json
+C:\Users\vrqua\Desktop\Portifólio do GitHub\controle-estoque\bin\Debug\netcoreapp3.1\NovoControleEstoque.dll
+C:\Users\vrqua\Desktop\Portifólio do GitHub\controle-estoque\bin\Debug\netcoreapp3.1\NovoControleEstoque.pdb
+C:\Users\vrqua\Desktop\Portifólio do GitHub\controle-estoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.csproj.AssemblyReference.cache
+C:\Users\vrqua\Desktop\Portifólio do GitHub\controle-estoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vrqua\Desktop\Portifólio do GitHub\controle-estoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.AssemblyInfoInputs.cache
+C:\Users\vrqua\Desktop\Portifólio do GitHub\controle-estoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.AssemblyInfo.cs
+C:\Users\vrqua\Desktop\Portifólio do GitHub\controle-estoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.csproj.CoreCompileInputs.cache
+C:\Users\vrqua\Desktop\Portifólio do GitHub\controle-estoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.dll
+C:\Users\vrqua\Desktop\Portifólio do GitHub\controle-estoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.pdb
+C:\Users\vrqua\Desktop\Portifólio do GitHub\controle-estoque\obj\Debug\netcoreapp3.1\NovoControleEstoque.genruntimeconfig.cache

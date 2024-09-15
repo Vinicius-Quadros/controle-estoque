@@ -1,0 +1,16 @@
+0001100;Gabinete Xtreme Blue com Placa Mãe e Processador Ryzen 3;148;20220502
+0001200;Gabinete Pyrus Red com Placa Mãe e Processador Atlhon;200;20210301
+0001300;Gabinete Xeon Verde com Placa Mãe e Processador Intel i3;120;20210301
+0001400;Gabinete Prisma Pink com Placa Mãe e Processador Celeron;179;20220503
+0002100;Memória RAM 4Gb DDR4 2666 Mhz;1298;20220503
+0002200;Memória RAM 8Gb DDR4 2666 Mhz;198;20220501
+0003100;HD SSD Interno SATA 480 Gb;379;20220501
+0003200;HD Interno Mecânico 1000 Gb;268;20220503
+0004100;Combo - Teclado e Mouse sem fio;199;20220501
+0004200;Combo - Teclado e mouse com fio;448;20220503
+0005100;Monitor Full HD (1920 x 1080);269;20220501
+0005200;Monitor HD (1366 x 768);378;20220503
+0006100;Fonte 750W;68;20220503
+0006200;Fonte 500 W;579;20220502
+0007100;Cabo de Energia;647;20220503
+0007250;Cabo HDMI para monitor;647;20220503

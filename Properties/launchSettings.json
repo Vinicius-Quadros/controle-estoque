@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NovoControleEstoque": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

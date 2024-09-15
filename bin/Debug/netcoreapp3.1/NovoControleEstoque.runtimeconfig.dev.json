@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vrqua\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vrqua\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+============= INÍCIO DO RELATÓRIO ===============
+-------------------------------------------------
+Id Peca ...: 0001100
+Descrição .: Kit Placa Mãe e Processador Ryzen 3
+Quantidade : 150
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+Id Peca ...: 0001200
+Descrição .: Kit Placa Mãe e Processador Atlhon
+Quantidade : 200
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+Id Peca ...: 0001300
+Descrição .: Kit Placa Mãe e Processador Intel i3
+Quantidade : 120
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+Id Peca ...: 0001400
+Descrição .: Kit Placa Mãe e Processador Celeron
+Quantidade : 180
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+Id Peca ...: 0002100
+Descrição .: Memória RAM 4Gb DDR4 2666 Mhz
+Quantidade : 1300
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+Id Peca ...: 0002200
+Descrição .: Memória RAM 8Gb DDR4 2666 Mhz
+Quantidade : 200
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+Id Peca ...: 0003100
+Descrição .: HD SSD Interno SATA 480 Gb
+Quantidade : 380
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+Id Peca ...: 0003200
+Descrição .: HD Interno Mecânico 1000 Gb
+Quantidade : 270
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+Id Peca ...: 0004100
+Descrição .: Combo - Teclado e Mouse sem fio
+Quantidade : 200
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+Id Peca ...: 0004200
+Descrição .: Combo - Teclado e mouse com fio
+Quantidade : 450
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+Id Peca ...: 0005100
+Descrição .: Monitor Full HD (1920 x 1080)
+Quantidade : 270
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+Id Peca ...: 0005200
+Descrição .: Monitor HD (1366 x 768)
+Quantidade : 380
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+Id Peca ...: 0006100
+Descrição .: Fonte 750W
+Quantidade : 70
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+Id Peca ...: 0006200
+Descrição .: Fonte 500 W
+Quantidade : 580
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+Id Peca ...: 0007100
+Descrição .: Cabo de Energia
+Quantidade : 650
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+Id Peca ...: 0007250
+Descrição .: Cabo HDMI para monitor
+Quantidade : 650
+Data Mov ..: 01/03/2021
+-------------------------------------------------
+============== FIM DO RELATÓRIO =================

@@ -1,0 +1,39 @@
+===== INÍCIO DO RELATÓRIO DE MICROS MONTADOS ====
+-------------------------------------------------
+Montagem nº 0000001
+    Descrição: Ultra PC - O máximo em desempenho ridículo
+               1 - Gabinete Xtreme Blue com Placa Mãe e Processador Ryzen 3
+               2 - Memória RAM 8Gb DDR4 2666 Mhz
+               1 - HD SSD Interno SATA 480 Gb
+               1 - Combo - Teclado e Mouse sem fio
+               1 - Monitor Full HD (1920 x 1080)
+               1 - Fonte 750W
+               1 - Cabo de Energia
+               1 - Cabo HDMI para monitor
+Montado em 01/05/2022
+-------------------------------------------------
+Montagem nº 0000002
+    Descrição: teste
+               1 - Gabinete Xtreme Blue com Placa Mãe e Processador Ryzen 3
+               1 - Memória RAM 4Gb DDR4 2666 Mhz
+               1 - HD Interno Mecânico 1000 Gb
+               1 - Combo - Teclado e mouse com fio
+               1 - Monitor HD (1366 x 768)
+               1 - Fonte 500 W
+               1 - Cabo de Energia
+               1 - Cabo HDMI para monitor
+Montado em 02/05/2022
+-------------------------------------------------
+Montagem nº 0000003
+    Descrição: PC Nenem da Mamãe
+               1 - Gabinete Prisma Pink com Placa Mãe e Processador Celeron
+               1 - Memória RAM 4Gb DDR4 2666 Mhz
+               1 - HD Interno Mecânico 1000 Gb
+               1 - Combo - Teclado e mouse com fio
+               1 - Monitor HD (1366 x 768)
+               1 - Fonte 750W
+               1 - Cabo de Energia
+               1 - Cabo HDMI para monitor
+Montado em 03/05/2022
+-------------------------------------------------
+============== FIM DO RELATÓRIO =================
